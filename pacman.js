@@ -194,7 +194,7 @@ var getGameDescription = (function(){
             "",
             "PLANIFIKIMI: RICARDO HAUSMANN",
             "",
-            "ZBATIMI: ANDI DOBRUSHI",
+            "ZBATIMI: ERMAL FRASHERI",
         ],
         [
             "IDEJA: GEORGE SOROS",
@@ -203,7 +203,7 @@ var getGameDescription = (function(){
             "",
             "PLANIFIKIMI: RICARDO HAUSMANN",
             "",
-            "ZBATIMI: ANDI DOBRUSHI",
+            "ZBATIMI: ERMAL FRASHERI",
         ],
         [
             "IDEJA: GEORGE SOROS",
@@ -212,7 +212,7 @@ var getGameDescription = (function(){
             "",
             "PLANIFIKIMI: RICARDO HAUSMANN",
             "",
-            "ZBATIMI: ANDI DOBRUSHI",
+            "ZBATIMI: ERMAL FRASHERI",
         ],
         [
             "IDEJA: GEORGE SOROS",
@@ -221,7 +221,7 @@ var getGameDescription = (function(){
             "",
             "PLANIFIKIMI: RICARDO HAUSMANN",
             "",
-            "ZBATIMI: ANDI DOBRUSHI",
+            "ZBATIMI: ERMAL FRASHERI",
         ],
     ];
 
