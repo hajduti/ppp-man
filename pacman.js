@@ -11120,7 +11120,8 @@ var overState = (function() {
         draw: function() {
             renderer.blitMap();
             renderer.drawScore();
-            renderer.drawMessage("GAME  OVER", "#F00", 9, 20);
+            renderer.drawMessage( getGameName() + ":", "#F00", 8, 20);
+            renderer.drawMessage( "ARRESTUAR!", "#F00", 8, 22);
         },
         update: function() {
             if (frames == 120) {
