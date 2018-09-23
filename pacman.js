@@ -10673,7 +10673,7 @@ var newGameState = (function() {
                 return;
             renderer.blitMap();
             renderer.drawScore();
-            renderer.drawMessage("PLAYER ONE", "#0FF", 9, 14);
+            renderer.drawMessage("HAJDUTI", "#0FF", 9, 14);
             renderer.drawReadyMessage();
         },
         update: function() {
