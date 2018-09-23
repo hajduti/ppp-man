@@ -238,16 +238,16 @@ var getGhostNames = function(mode) {
         mode = gameMode;
     }
     if (mode == GAME_OTTO) {
-        return ["plato","darwin","freud","newton"];
+        return ["Guardia Di Finanzia","Interpol","DEA Police","Europol"];
     }
     else if (mode == GAME_MSPACMAN) {
-        return ["blinky","pinky","inky","sue"];
+        return ["Europol","DEA Police","Guardia Di Finanzia","Interpol"];
     }
     else if (mode == GAME_PACMAN) {
-        return ["blinky","pinky","inky","clyde"];
+        return ["Guardia Di Finanzia","Interpol","DEA Police","Europol"];
     }
     else if (mode == GAME_COOKIE) {
-        return ["elmo","piggy","rosita","zoe"];
+        return ["DEA Police","Interpol","Guardia Di Finanzia","Europol"];
     }
 };
 
